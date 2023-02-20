@@ -32,12 +32,17 @@
 <br/>
 <br/>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abdelilahelbouabdellaoui" target="blank"><img align="center" src="https://user-images.githubusercontent.com/125560911/220155350-c8d9f21e-7238-4892-9cb0-2afd4bf08fca.png" alt="fâ tî" height="30" width="40" /></a>
-<a href="https://www.facebook.com/abdou.elbouabdellaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fâ tî" height="30" width="40" /></a>
-<a href="https://instagram.com/abdelilah_el_bouabdellaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatima_zzahrae_1" height="30" width="40" /></a>
-<a href="https://discord.gg/#4718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2744" height="30" width="40" /></a>
-</p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/abdelilahelbouabdellaoui" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/abdelilah_el_bouabdellaoui" target="blank">
+    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
+  </a>
+  <a href="https://www.facebook.com/abdou.elbouabdellaoui" target="blank">
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
+  </a>
+</div>
 
 
 <!--
