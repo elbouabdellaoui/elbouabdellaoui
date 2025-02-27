@@ -39,7 +39,7 @@
   <a href="https://instagram.com/abdelilah_el_bouabdellaoui" target="blank">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
-  <a href="https://www.facebook.com/abdou.elbouabdellaoui" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=61558679390924" target="blank">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
   </a>
 </div>
